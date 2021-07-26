@@ -6,7 +6,8 @@ Nuclei segmentation plays a crucial role in the analysis of biomedical images. I
 - Code
 https://github.com/MSVermet/MSc-Thesis/tree/main/code
 
-- Data
+- Data 
+https://warwick.ac.uk/fac/cross_fac/tia/data/pannuke
 
 - Thesis
 https://github.com/MSVermet/MSc-Thesis/blob/main/MSc_Thesis.pdf
