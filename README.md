@@ -9,7 +9,7 @@ Nuclei segmentation plays a crucial role in the analysis of biomedical images. I
 <img src="https://github.com/MSVermet/MSc-Thesis/blob/main/voorkant.jpg" width="400" height="300">
 
 
-- [Go to Real Cool Heading section](#code)
+- [code](https://github.com/MSVermet/MSc-Thesis/tree/main/code)
 https://github.com/MSVermet/MSc-Thesis/tree/main/code
 
 - Data 
