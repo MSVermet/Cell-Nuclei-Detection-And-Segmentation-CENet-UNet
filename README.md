@@ -9,14 +9,10 @@ Nuclei segmentation plays a crucial role in the analysis of biomedical images. I
 <img src="https://github.com/MSVermet/MSc-Thesis/blob/main/voorkant.jpg" width="400" height="300">
 
 
-- [code](https://github.com/MSVermet/MSc-Thesis/tree/main/code)
-https://github.com/MSVermet/MSc-Thesis/tree/main/code
+- [Code](https://github.com/MSVermet/MSc-Thesis/tree/main/code) - this folder contains three notebooks with codes: one with U-Net model, CE-Net model, and one where the results of both models are combined. 
 
-- Data 
-https://warwick.ac.uk/fac/cross_fac/tia/data/pannuke
+- [Data](https://warwick.ac.uk/fac/cross_fac/tia/data/pannuke) - this is a link to the dataset that is used in this research
 
-- Thesis
-https://github.com/MSVermet/MSc-Thesis/blob/main/MSc_Thesis.pdf
+- [Thesis](https://github.com/MSVermet/MSc-Thesis/blob/main/MSc_Thesis.pdf) - here you can view the thesis itself
 
-- Presentation slides
-https://github.com/MSVermet/MSc-Thesis/blob/main/Thesis_presentation_slides.pdf
+- [Presentation slides](https://github.com/MSVermet/MSc-Thesis/blob/main/Thesis_presentation_slides.pdf) - these are the presentation slides that were presented during the thesis defence
